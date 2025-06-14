@@ -1,7 +1,6 @@
 **Demo Video** : 
 
-[![Watch the Demo](./Thumbnail.jpg)]
+[![Watch the Demo](./Thumbnail.jpg.png)]
 
 
-LINK TO DATA SET AND OUTPUTS 
-https://drive.google.com/drive/folders/1dTV_OuxHrsPsNq8lTrcu8rxjpNkxOtmD?usp=drive_link
+
