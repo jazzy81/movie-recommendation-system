@@ -1,6 +1,6 @@
 **Demo Video** : 
 
-[![Watch the Demo](./Thumbnail.jpg)]
+[![Watch the Demo](./Thumbnail.jpg - Copy.png)]
 
 
 LINK TO DATA SET AND OUTPUTS 
